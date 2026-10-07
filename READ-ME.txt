@@ -1,0 +1,10 @@
+Este portfólio envolve a apresentação de dados de um projeto de análise de dados aplicados à pesquisa em oceanografia física. O projeto envolve 4 arquivos até o momento:
+
+- READ-ME: Este arquivo, responsável pelas orientações
+- SAMOC_Portifólio: Resumo do projeto em formato de CANVAS simplificado, contendo área de estudo, metodologia, resultado e conclusões. 
+- Análise_de_Dados_calor_Portifolio.ipynb: Códigos para a geração das imagens. 
+- Relatório dos dados: Análise de dados descrita para a tomada de decisões e conclusões tomadas.
+
+Caso tenha interesse em oceanografia física ou visualização e interpretação de dados oceanográficos, segue meu contato:
+- rodrigobapbarros@gmail.com
+- in/rodrigobapbarros
